@@ -10,5 +10,5 @@ if (num1 > num2) {
 } else if (num1 === num2) {
     document.write('Both initgeres are equal.')
 } else {
-    document.write('WTF did you type in the box?!')
+    document.write('What did you type in the box?!')
 }
